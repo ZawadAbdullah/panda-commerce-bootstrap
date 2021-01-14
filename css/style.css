@@ -1,0 +1,23 @@
+.card-css {
+    border: 0;
+}
+
+.footer-css {
+    border: 0;
+}
+
+.banner {
+    margin-top: 40px;
+}
+
+.banner-edit {
+    margin-left: 40px;
+}
+
+.footer-edit {
+    background-color: #FEEAE9;
+}
+
+.button-edit {
+    background-color: deeppink;
+}
